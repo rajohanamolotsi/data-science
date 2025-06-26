@@ -21,6 +21,4 @@ if __name__ == '__main__':
 
     # Assign the second and third columns to x and y
     x = data[:, 1]  # Second column (index 1)
-    y = data[:, 2]  # Third column (index 2)
-
-    gradient_descent(x, y)
+    y = data[:, 2]  # Third column (index 2
